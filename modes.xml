@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="pl-uk" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.pl-uk.t1x"/>
+        <file name="pl-uk.t1x.bin"/>
+        <file name="pl-uk.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.pl-uk.t2x"/>
+        <file name="pl-uk.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.pl-uk.t3x"/>
+        <file name="pl-uk.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pl-uk.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="pl-uk.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-anmor">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-tagger">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-pretransfer">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-chunker">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.pl-uk.t1x"/>
+        <file name="pl-uk.t1x.bin"/>
+        <file name="pl-uk.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="pl-uk-interchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.pl-uk.t1x"/>
+        <file name="pl-uk.t1x.bin"/>
+        <file name="pl-uk.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.pl-uk.t2x"/>
+        <file name="pl-uk.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-postchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.pl-uk.t1x"/>
+        <file name="pl-uk.t1x.bin"/>
+        <file name="pl-uk.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.pl-uk.t2x"/>
+        <file name="pl-uk.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.pl-uk.t3x"/>
+        <file name="pl-uk.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="pl-uk-generador">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="pl-uk.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="pl-uk.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.pl-uk.t1x"/>
+        <file name="pl-uk.t1x.bin"/>
+        <file name="pl-uk.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.pl-uk.t2x"/>
+        <file name="pl-uk.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.pl-uk.t3x"/>
+        <file name="pl-uk.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="pl-uk.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+
+  
+  <mode name="uk-pl" install="yes">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.uk-pl.t1x"/>
+        <file name="uk-pl.t1x.bin"/>
+        <file name="uk-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.uk-pl.t2x"/>
+        <file name="uk-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.uk-pl.t3x"/>
+        <file name="uk-pl.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="uk-pl.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="uk-pl.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-anmor">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-tagger">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-pretransfer">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-chunker">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.uk-pl.t1x"/>
+        <file name="uk-pl.t1x.bin"/>
+        <file name="uk-pl.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>                
+                                          
+  <mode name="uk-pl-interchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.uk-pl.t1x"/>
+        <file name="uk-pl.t1x.bin"/>
+        <file name="uk-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.uk-pl.t2x"/>
+        <file name="uk-pl.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-postchunk">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.uk-pl.t1x"/>
+        <file name="uk-pl.t1x.bin"/>
+        <file name="uk-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.uk-pl.t2x"/>
+        <file name="uk-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.uk-pl.t3x"/>
+        <file name="uk-pl.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uk-pl-generador">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="uk-pl.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uk-pl.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-pl-uk.uk-pl.t1x"/>
+        <file name="uk-pl.t1x.bin"/>
+        <file name="uk-pl.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-pl-uk.uk-pl.t2x"/>
+        <file name="uk-pl.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-pl-uk.uk-pl.t3x"/>
+        <file name="uk-pl.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="uk-pl.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+    
+
+</modes>
