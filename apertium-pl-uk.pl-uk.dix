@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3747
+	Entries: 3695
 	Sdefs: 48
-	Last processed by: apertium-dixtools sort -standard apertium-pl-uk.pl-uk.dix out.dix
+	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out.dix
 
 -->
 <dictionary>
@@ -144,7 +144,6 @@
     <!-- ******************************
           group vblex_symbol
       ****************************** -->
-    <e><p><l>adresować<s n="vblex"/><s n="imperf"/></l><r>адресувати<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>adresować<s n="vblex"/><s n="imperf"/></l><r>адресувати<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>aklimatyzować<s n="vblex"/><s n="imperf"/></l><r>акліматизувати<s n="vblex"/><s n="imperf"/></r></p></e>
     <e><p><l>aktywować<s n="vblex"/><s n="imperf"/></l><r>активувати<s n="vblex"/><s n="imperf"/></r></p></e>
@@ -3252,33 +3251,20 @@
       ****************************** -->
     <e><p><l>abisyński<s n="adj"/></l><r>абіссінський<s n="adj"/></r></p></e>
     <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
-    <e><p><l>absolutny<s n="adj"/></l><r>абсолютний<s n="adj"/></r></p></e>
-    <e><p><l>administratorski<s n="adj"/></l><r>адміністраторський<s n="adj"/></r></p></e>
     <e><p><l>administratorski<s n="adj"/></l><r>адміністраторський<s n="adj"/></r></p></e>
     <e><p><l>admiralski<s n="adj"/></l><r>адміральський<s n="adj"/></r></p></e>
-    <e><p><l>admiralski<s n="adj"/></l><r>адміральський<s n="adj"/></r></p></e>
-    <e><p><l>aerodynamiczny<s n="adj"/></l><r>аеродинамічний<s n="adj"/></r></p></e>
     <e><p><l>aerodynamiczny<s n="adj"/></l><r>аеродинамічний<s n="adj"/></r></p></e>
     <e><p><l>afrykański<s n="adj"/></l><r>африканський<s n="adj"/></r></p></e>
     <e><p><l>agrarny<s n="adj"/></l><r>аграрний<s n="adj"/></r></p></e>
-    <e><p><l>agrarny<s n="adj"/></l><r>аграрний<s n="adj"/></r></p></e>
-    <e><p><l>agresywny<s n="adj"/></l><r>агресивний<s n="adj"/></r></p></e>
     <e><p><l>agresywny<s n="adj"/></l><r>агресивний<s n="adj"/></r></p></e>
     <e><p><l>aktualny<s n="adj"/></l><r>актуальний<s n="adj"/></r></p></e>
-    <e><p><l>aktualny<s n="adj"/></l><r>актуальний<s n="adj"/></r></p></e>
-    <e><p><l>aktywny<s n="adj"/></l><r>активний<s n="adj"/></r></p></e>
     <e><p><l>aktywny<s n="adj"/></l><r>активний<s n="adj"/></r></p></e>
     <e><p><l>akuratny<s n="adj"/></l><r>акуратний<s n="adj"/></r></p></e>
-    <e><p><l>akuratny<s n="adj"/></l><r>акуратний<s n="adj"/></r></p></e>
-    <e><p><l>alegoryczny<s n="adj"/></l><r>алегоричний<s n="adj"/></r></p></e>
     <e><p><l>alegoryczny<s n="adj"/></l><r>алегоричний<s n="adj"/></r></p></e>
     <e><p><l>alfabetyczny<s n="adj"/></l><r>алфавітний<s n="adj"/></r></p></e>
-    <e><p><l>alfabetyczny<s n="adj"/></l><r>алфавітний<s n="adj"/></r></p></e>
-    <e><p><l>algebraiczny<s n="adj"/></l><r>алгебраїчний<s n="adj"/></r></p></e>
     <e><p><l>algebraiczny<s n="adj"/></l><r>алгебраїчний<s n="adj"/></r></p></e>
     <e><p><l>amatorski<s n="adj"/></l><r>любительський<s n="adj"/></r></p></e>
     <e><p><l>amerykański<s n="adj"/></l><r>американський<s n="adj"/></r></p></e>
-    <e><p><l>amoralny<s n="adj"/></l><r>аморальний<s n="adj"/></r></p></e>
     <e><p><l>amoralny<s n="adj"/></l><r>аморальний<s n="adj"/></r></p></e>
     <e><p><l>analityczny<s n="adj"/></l><r>аналітичний<s n="adj"/></r></p></e>
     <e><p><l>analny<s n="adj"/></l><r>анальний<s n="adj"/></r></p></e>
@@ -3297,13 +3283,10 @@
     <e><p><l>apostolski<s n="adj"/></l><r>апостольський<s n="adj"/></r></p></e>
     <e><p><l>aptekarski<s n="adj"/></l><r>аптекарський<s n="adj"/></r></p></e>
     <e><p><l>arabski<s n="adj"/></l><r>арабський<s n="adj"/></r></p></e>
-    <e><p><l>arabski<s n="adj"/></l><r>арабський<s n="adj"/></r></p></e>
     <e><p><l>aramejski<s n="adj"/></l><r>арамейський<s n="adj"/></r></p></e>
-    <e><p><l>archaiczny<s n="adj"/></l><r>архаїчний<s n="adj"/></r></p></e>
     <e><p><l>archaiczny<s n="adj"/></l><r>архаїчний<s n="adj"/></r></p></e>
     <e><p><l>archangielski<s n="adj"/></l><r>архангельський<s n="adj"/></r></p></e>
     <e><p><l>architektoniczny<s n="adj"/></l><r>архітектонічний<s n="adj"/></r></p></e>
-    <e><p><l>arktyczny<s n="adj"/></l><r>арктичний<s n="adj"/></r></p></e>
     <e><p><l>arktyczny<s n="adj"/></l><r>арктичний<s n="adj"/></r></p></e>
     <e><p><l>aromatyczny<s n="adj"/></l><r>ароматний<s n="adj"/></r></p></e>
     <e><p><l>artyleryjski<s n="adj"/></l><r>артилерійський<s n="adj"/></r></p></e>
@@ -3314,16 +3297,12 @@
     <e><p><l>asymetryczny<s n="adj"/></l><r>асиметричний<s n="adj"/></r></p></e>
     <e><p><l>autentyczny<s n="adj"/></l><r>автентичний<s n="adj"/></r></p></e>
     <e><p><l>automatyczny<s n="adj"/></l><r>автоматичний<s n="adj"/></r></p></e>
-    <e><p><l>automatyczny<s n="adj"/></l><r>автоматичний<s n="adj"/></r></p></e>
     <e><p><l>autorytarny<s n="adj"/></l><r>авторитарний<s n="adj"/></r></p></e>
-    <e><p><l>babski<s n="adj"/></l><r>бабський<s n="adj"/></r></p></e>
     <e><p><l>babski<s n="adj"/></l><r>бабський<s n="adj"/></r></p></e>
     <e><p><l>balistyczny<s n="adj"/></l><r>балістичний<s n="adj"/></r></p></e>
     <e><p><l>banalny<s n="adj"/></l><r>банальний<s n="adj"/></r></p></e>
     <e><p><l>barbarzyński<s n="adj"/></l><r>варварський<s n="adj"/></r></p></e>
-    <e><p><l>barbarzyński<s n="adj"/></l><r>варварський<s n="adj"/></r></p></e>
     <e><p><l>bawarski<s n="adj"/></l><r>баварський<s n="adj"/></r></p></e>
-    <e><p><l>bengalski<s n="adj"/></l><r>бенгальський<s n="adj"/></r></p></e>
     <e><p><l>bengalski<s n="adj"/></l><r>бенгальський<s n="adj"/></r></p></e>
     <e><p><l>bezcenny<s n="adj"/></l><r>безцінний<s n="adj"/></r></p></e>
     <e><p><l>bezdomny<s n="adj"/></l><r>бездомний<s n="adj"/></r></p></e>
@@ -3348,7 +3327,6 @@
     <e><p><l>brutalny<s n="adj"/></l><r>брутальний<s n="adj"/></r></p></e>
     <e><p><l>brytyjski<s n="adj"/></l><r>британський<s n="adj"/></r></p></e>
     <e><p><l>bujny<s n="adj"/></l><r>буйний<s n="adj"/></r></p></e>
-    <e><p><l>carski<s n="adj"/></l><r>царський<s n="adj"/></r></p></e>
     <e><p><l>carski<s n="adj"/></l><r>царський<s n="adj"/></r></p></e>
     <e><p><l>cenny<s n="adj"/></l><r>цінний<s n="adj"/></r></p></e>
     <e><p><l>centralny<s n="adj"/></l><r>центральний<s n="adj"/></r></p></e>
@@ -3390,8 +3368,6 @@
     <e><p><l>dziwny<s n="adj"/></l><r>дивний<s n="adj"/></r></p></e>
     <e><p><l>dżentelmeński<s n="adj"/></l><r>джентльменський<s n="adj"/></r></p></e>
     <e><p><l>efektywny<s n="adj"/></l><r>ефективний<s n="adj"/></r></p></e>
-    <e><p><l>efektywny<s n="adj"/></l><r>ефективний<s n="adj"/></r></p></e>
-    <e><p><l>ekonomiczny<s n="adj"/></l><r>економічний<s n="adj"/></r></p></e>
     <e><p><l>ekonomiczny<s n="adj"/></l><r>економічний<s n="adj"/></r></p></e>
     <e><p><l>ekscentryczny<s n="adj"/></l><r>ексцентричний<s n="adj"/></r></p></e>
     <e><p><l>ekspansywny<s n="adj"/></l><r>експансивний<s n="adj"/></r></p></e>
@@ -3444,20 +3420,15 @@
     <e><p><l>geologiczny<s n="adj"/></l><r>геологічний<s n="adj"/></r></p></e>
     <e><p><l>geometryczny<s n="adj"/></l><r>геометричний<s n="adj"/></r></p></e>
     <e><p><l>gigantyczny<s n="adj"/></l><r>гігантський<s n="adj"/></r></p></e>
-    <e><p><l>gigantyczny<s n="adj"/></l><r>гігантський<s n="adj"/></r></p></e>
     <e><p><l>gimnastyczny<s n="adj"/></l><r>гімнастичний<s n="adj"/></r></p></e>
     <e><p><l>globalny<s n="adj"/></l><r>глобальний<s n="adj"/></r></p></e>
-    <e><p><l>gorzki<s n="adj"/></l><r>гіркий<s n="adj"/></r></p></e>
     <e><p><l>gorzki<s n="adj"/></l><r>гіркий<s n="adj"/></r></p></e>
     <e><p><l>gotowy<s n="adj"/></l><r>готовий<s n="adj"/></r></p></e>
     <e><p><l>graficzny<s n="adj"/></l><r>графічний<s n="adj"/></r></p></e>
     <e><p><l>gramatyczny<s n="adj"/></l><r>граматичний<s n="adj"/></r></p></e>
     <e><p><l>gubernatorski<s n="adj"/></l><r>губернаторський<s n="adj"/></r></p></e>
     <e><p><l>głodny<s n="adj"/></l><r>голодний<s n="adj"/></r></p></e>
-    <e><p><l>głodny<s n="adj"/></l><r>голодний<s n="adj"/></r></p></e>
     <e><p><l>głęboki<s n="adj"/></l><r>глибокий<s n="adj"/></r></p></e>
-    <e><p><l>głęboki<s n="adj"/></l><r>глибокий<s n="adj"/></r></p></e>
-    <e><p><l>higieniczny<s n="adj"/></l><r>гігієнічний<s n="adj"/></r></p></e>
     <e><p><l>higieniczny<s n="adj"/></l><r>гігієнічний<s n="adj"/></r></p></e>
     <e><p><l>histeryczny<s n="adj"/></l><r>істеричний<s n="adj"/></r></p></e>
     <e><p><l>historyczny<s n="adj"/></l><r>історичний<s n="adj"/></r></p></e>
@@ -3502,7 +3473,6 @@
     <e><p><l>kompetentny<s n="adj"/></l><r>компетентний<s n="adj"/></r></p></e>
     <e><p><l>kompozytorski<s n="adj"/></l><r>композиторський<s n="adj"/></r></p></e>
     <e><p><l>komsomolski<s n="adj"/></l><r>комсомольський<s n="adj"/></r></p></e>
-    <e><p><l>komsomolski<s n="adj"/></l><r>комсомольський<s n="adj"/></r></p></e>
     <e><p><l>koncentryczny<s n="adj"/></l><r>концентричний<s n="adj"/></r></p></e>
     <e><p><l>konceptualny<s n="adj"/></l><r>концептуальний<s n="adj"/></r></p></e>
     <e><p><l>konkretny<s n="adj"/></l><r>конкретний<s n="adj"/></r></p></e>
@@ -3524,7 +3494,6 @@
     <e><p><l>krystaliczny<s n="adj"/></l><r>кристалічний<s n="adj"/></r></p></e>
     <e><p><l>krytyczny<s n="adj"/></l><r>критичний<s n="adj"/></r></p></e>
     <e><p><l>królewski<s n="adj"/></l><r>королівський<s n="adj"/></r></p></e>
-    <e><p><l>królewski<s n="adj"/></l><r>королівський<s n="adj"/></r></p></e>
     <e><p><l>krótki<s n="adj"/></l><r>короткий<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>krótki<s n="adj"/></l><r>короткий<s n="adj"/></r></p></e>
     <e><p><l>kubiczny<s n="adj"/></l><r>кубічний<s n="adj"/></r></p></e>
@@ -3544,7 +3513,6 @@
     <e><p><l>liryczny<s n="adj"/></l><r>ліричний<s n="adj"/></r></p></e>
     <e><p><l>logiczny<s n="adj"/></l><r>логічний<s n="adj"/></r></p></e>
     <e><p><l>ludny<s n="adj"/></l><r>людний<s n="adj"/></r></p></e>
-    <e><p><l>ludzki<s n="adj"/></l><r>людський<s n="adj"/></r></p></e>
     <e><p><l>ludzki<s n="adj"/></l><r>людський<s n="adj"/></r></p></e>
     <e><p><l>magiczny<s n="adj"/></l><r>магічний<s n="adj"/></r></p></e>
     <e><p><l>magisterski<s n="adj"/></l><r>магістерський<s n="adj"/></r></p></e>
@@ -3583,7 +3551,6 @@
     <e><p><l>nadludzki<s n="adj"/></l><r>надлюдський<s n="adj"/></r></p></e>
     <e><p><l>nadziemny<s n="adj"/></l><r>надземний<s n="adj"/></r></p></e>
     <e><p><l>nadzwyczajny<s n="adj"/></l><r>надзвичайний<s n="adj"/></r></p></e>
-    <e><p><l>nadzwyczajny<s n="adj"/></l><r>надзвичайний<s n="adj"/></r></p></e>
     <e><p><l>narkotyczny<s n="adj"/></l><r>наркотичний<s n="adj"/></r></p></e>
     <e><p><l>natowski<s n="adj"/></l><r>натовський<s n="adj"/></r></p></e>
     <e><p><l>naturalistyczny<s n="adj"/></l><r>натуралістичний<s n="adj"/></r></p></e>
@@ -3602,19 +3569,16 @@
     <e><p><l>niestabilny<s n="adj"/></l><r>нестабільний<s n="adj"/></r></p></e>
     <e><p><l>niewinny<s n="adj"/></l><r>невинний<s n="adj"/></r></p></e>
     <e><p><l>niski<s n="adj"/></l><r>низький<s n="adj"/></r></p></e>
-    <e><p><l>niski<s n="adj"/></l><r>низький<s n="adj"/></r></p></e>
     <e><p><l>nominalny<s n="adj"/></l><r>номінальний<s n="adj"/></r></p></e>
     <e><p><l>normalny<s n="adj"/></l><r>нормальний<s n="adj"/></r></p></e>
     <e><p><l>normatywny<s n="adj"/></l><r>нормативний<s n="adj"/></r></p></e>
     <e><p><l>notarialny<s n="adj"/></l><r>нотаріальний<s n="adj"/></r></p></e>
-    <e><p><l>nowatorski<s n="adj"/></l><r>новаторський<s n="adj"/></r></p></e>
     <e><p><l>nowatorski<s n="adj"/></l><r>новаторський<s n="adj"/></r></p></e>
     <e><p><l>nowomodny<s n="adj"/></l><r>новомодний<s n="adj"/></r></p></e>
     <e><p><l>nowy<s n="adj"/><s n="sint"/></l><r>новий<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>nudny<s n="adj"/></l><r>нудний<s n="adj"/></r></p></e>
     <e><p><l>numizmatyczny<s n="adj"/></l><r>нумізматичний<s n="adj"/></r></p></e>
     <e><p><l>obywatelski<s n="adj"/></l><r>обивательський<s n="adj"/></r></p></e>
-    <e><p><l>oficerski<s n="adj"/></l><r>офіцерський<s n="adj"/></r></p></e>
     <e><p><l>oficerski<s n="adj"/></l><r>офіцерський<s n="adj"/></r></p></e>
     <e><p><l>omski<s n="adj"/></l><r>омський<s n="adj"/></r></p></e>
     <e><p><l>optymalny<s n="adj"/></l><r>оптимальний<s n="adj"/></r></p></e>
@@ -3663,7 +3627,6 @@
     <e><p><l>pomorski<s n="adj"/></l><r>поморський<s n="adj"/></r></p></e>
     <e><p><l>poprawny<s n="adj"/></l><r>правильний<s n="adj"/></r></p></e>
     <e><p><l>portugalski<s n="adj"/></l><r>португальський<s n="adj"/></r></p></e>
-    <e><p><l>portugalski<s n="adj"/></l><r>португальський<s n="adj"/></r></p></e>
     <e><p><l>potworny<s n="adj"/></l><r>потворний<s n="adj"/></r></p></e>
     <e><p><l>poznański<s n="adj"/></l><r>познанський<s n="adj"/></r></p></e>
     <e><p><l>pozytywny<s n="adj"/></l><r>позитивний<s n="adj"/></r></p></e>
@@ -3674,7 +3637,6 @@
     <e><p><l>produktywny<s n="adj"/></l><r>продуктивний<s n="adj"/></r></p></e>
     <e><p><l>profilaktyczny<s n="adj"/></l><r>профілактичний<s n="adj"/></r></p></e>
     <e><p><l>progresywny<s n="adj"/></l><r>прогресивний<s n="adj"/></r></p></e>
-    <e><p><l>proletariacki<s n="adj"/></l><r>пролетарський<s n="adj"/></r></p></e>
     <e><p><l>proletariacki<s n="adj"/></l><r>пролетарський<s n="adj"/></r></p></e>
     <e><p><l>propagandystyczny<s n="adj"/></l><r>пропагандистський<s n="adj"/></r></p></e>
     <e><p><l>protestancki<s n="adj"/></l><r>протестантський<s n="adj"/></r></p></e>
@@ -3689,7 +3651,6 @@
     <e><p><l>punktualny<s n="adj"/></l><r>пунктуальний<s n="adj"/></r></p></e>
     <e><p><l>purytański<s n="adj"/></l><r>пуританський<s n="adj"/></r></p></e>
     <e><p><l>płaski<s n="adj"/></l><r>плоский<s n="adj"/></r></p></e>
-    <e><p><l>płaski<s n="adj"/></l><r>плоский<s n="adj"/></r></p></e>
     <e><p><l>radialny<s n="adj"/></l><r>радіальний<s n="adj"/></r></p></e>
     <e><p><l>radioaktywny<s n="adj"/></l><r>радіоактивний<s n="adj"/></r></p></e>
     <e><p><l>radykalny<s n="adj"/></l><r>радикальний<s n="adj"/></r></p></e>
@@ -3700,7 +3661,6 @@
     <e><p><l>realny<s n="adj"/></l><r>реальний<s n="adj"/></r></p></e>
     <e><p><l>redakcyjny<s n="adj"/></l><r>редакційний<s n="adj"/></r></p></e>
     <e><p><l>redaktorski<s n="adj"/></l><r>редакторський<s n="adj"/></r></p></e>
-    <e><p><l>reformatorski<s n="adj"/></l><r>реформаторський<s n="adj"/></r></p></e>
     <e><p><l>reformatorski<s n="adj"/></l><r>реформаторський<s n="adj"/></r></p></e>
     <e><p><l>regionalny<s n="adj"/></l><r>регіональний<s n="adj"/></r></p></e>
     <e><p><l>religijny<s n="adj"/></l><r>релігійний<s n="adj"/></r></p></e>
@@ -3749,11 +3709,9 @@
     <e><p><l>sponsorski<s n="adj"/></l><r>спонсорський<s n="adj"/></r></p></e>
     <e><p><l>sprytny<s n="adj"/></l><r>спритний<s n="adj"/></r></p></e>
     <e><p><l>srebrny<s n="adj"/></l><r>срібний<s n="adj"/></r></p></e>
-    <e><p><l>srebrny<s n="adj"/></l><r>срібний<s n="adj"/></r></p></e>
     <e><p><l>stadialny<s n="adj"/></l><r>стадіальний<s n="adj"/></r></p></e>
     <e><p><l>stadny<s n="adj"/></l><r>стадний<s n="adj"/></r></p></e>
     <e><p><l>staliński<s n="adj"/></l><r>сталінський<s n="adj"/></r></p></e>
-    <e><p><l>staranny<s n="adj"/></l><r>старанний<s n="adj"/></r></p></e>
     <e><p><l>staranny<s n="adj"/></l><r>старанний<s n="adj"/></r></p></e>
     <e><p><l>staromodny<s n="adj"/></l><r>старомодний<s n="adj"/></r></p></e>
     <e><p><l>stary<s n="adj"/><s n="sint"/></l><r>старий<s n="adj"/><s n="sint"/></r></p></e>
@@ -3784,7 +3742,6 @@
     <e><p><l>taktyczny<s n="adj"/></l><r>тактичний<s n="adj"/></r></p></e>
     <e><p><l>tani<s n="adj"/><s n="sint"/></l><r>дешевий<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>tatarski<s n="adj"/></l><r>татарський<s n="adj"/></r></p></e>
-    <e><p><l>tatarski<s n="adj"/></l><r>татарський<s n="adj"/></r></p></e>
     <e><p><l>tbiliski<s n="adj"/></l><r>тбіліський<s n="adj"/></r></p></e>
     <e><p><l>teatralny<s n="adj"/></l><r>театральний<s n="adj"/></r></p></e>
     <e><p><l>tekstylny<s n="adj"/></l><r>текстильний<s n="adj"/></r></p></e>
@@ -3804,7 +3761,6 @@
     <e><p><l>trudny<s n="adj"/></l><r>трудний<s n="adj"/></r></p></e>
     <e><p><l>turbulentny<s n="adj"/></l><r>турбулентний<s n="adj"/></r></p></e>
     <e><p><l>turecki<s n="adj"/></l><r>турецький<s n="adj"/></r></p></e>
-    <e><p><l>turecki<s n="adj"/></l><r>турецький<s n="adj"/></r></p></e>
     <e><p><l>turystyczny<s n="adj"/></l><r>туристський<s n="adj"/></r></p></e>
     <e><p><l>tytaniczny<s n="adj"/></l><r>титанічний<s n="adj"/></r></p></e>
     <e><p><l>ukraiński<s n="adj"/></l><r>український<s n="adj"/></r></p></e>
@@ -3814,7 +3770,6 @@
     <e><p><l>utylitarny<s n="adj"/></l><r>утилітарний<s n="adj"/></r></p></e>
     <e><p><l>wandalski<s n="adj"/></l><r>вандальський<s n="adj"/></r></p></e>
     <e><p><l>wasalny<s n="adj"/></l><r>васальний<s n="adj"/></r></p></e>
-    <e><p><l>wegetariański<s n="adj"/></l><r>вегетаріанський<s n="adj"/></r></p></e>
     <e><p><l>wegetariański<s n="adj"/></l><r>вегетаріанський<s n="adj"/></r></p></e>
     <e><p><l>wertykalny<s n="adj"/></l><r>вертикальний<s n="adj"/></r></p></e>
     <e><p><l>weselny<s n="adj"/></l><r>весільний<s n="adj"/></r></p></e>
@@ -3826,24 +3781,17 @@
     <e><p><l>zabawny<s n="adj"/></l><r>забавний<s n="adj"/></r></p></e>
     <e><p><l>zabobonny<s n="adj"/></l><r>забобонний<s n="adj"/></r></p></e>
     <e><p><l>zagraniczny<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
-    <e><p><l>zagraniczny<s n="adj"/></l><r>іноземний<s n="adj"/></r></p></e>
     <e><p><l>zamorski<s n="adj"/></l><r>заморський<s n="adj"/></r></p></e>
     <e><p><l>zgubny<s n="adj"/></l><r>згубний<s n="adj"/></r></p></e>
     <e><p><l>zielony<s n="adj"/></l><r>зелений<s n="adj"/></r></p></e>
-    <e><p><l>zielony<s n="adj"/></l><r>зелений<s n="adj"/></r></p></e>
     <e><p><l>ziemnowodny<s n="adj"/></l><r>земноводний<s n="adj"/></r></p></e>
-    <e><p><l>ziemnowodny<s n="adj"/></l><r>земноводний<s n="adj"/></r></p></e>
-    <e><p><l>ziemny<s n="adj"/></l><r>земний<s n="adj"/></r></p></e>
     <e><p><l>ziemny<s n="adj"/></l><r>земний<s n="adj"/></r></p></e>
     <e><p><l>ziemski<s n="adj"/></l><r>земський<s n="adj"/></r></p></e>
     <e><p><l>zimny<s n="adj"/></l><r>зимний<s n="adj"/></r></p></e>
     <e><p><l>znaczny<s n="adj"/></l><r>значний<s n="adj"/></r></p></e>
-    <e><p><l>znaczny<s n="adj"/></l><r>значний<s n="adj"/></r></p></e>
     <e><p><l>zodiakalny<s n="adj"/></l><r>зодіакальний<s n="adj"/></r></p></e>
     <e><p><l>zoologiczny<s n="adj"/></l><r>зоологічний<s n="adj"/></r></p></e>
     <e><p><l>zwycięski<s n="adj"/></l><r>переможний<s n="adj"/></r></p></e>
-    <e><p><l>zwycięski<s n="adj"/></l><r>переможний<s n="adj"/></r></p></e>
-    <e><p><l>zwyczajny<s n="adj"/></l><r>звичайний<s n="adj"/></r></p></e>
     <e><p><l>zwyczajny<s n="adj"/></l><r>звичайний<s n="adj"/></r></p></e>
     <e><p><l>ślepy<s n="adj"/></l><r>сліпий<s n="adj"/></r></p></e>
     <e><p><l>śliski<s n="adj"/></l><r>слизький<s n="adj"/></r></p></e>
