@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 2
-	Entries: 3934
+	Entries: 3854
 	Sdefs: 48
-	Last processed by: apertium-dixtools sort -standard apertium-pl-uk.pl-uk.dix out.dix
+	Last processed by: apertium-dixtools fix -standard apertium-pl-uk.pl-uk.dix out.dix
 
 -->
 <dictionary>
@@ -247,13 +247,11 @@
     <e><p><l>acydofilia<s n="n"/><s n="f"/></l><r>ацидофілія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>acydymetria<s n="n"/><s n="f"/></l><r>ацидиметрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>адаптація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>adaptacja<s n="n"/><s n="f"/></l><r>адаптація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adapter<s n="n"/><s n="mi"/></l><r>адаптер<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>addukcja<s n="n"/><s n="f"/></l><r>аддукція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adhezja<s n="n"/><s n="f"/></l><r>адгезія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adiektywizacja<s n="n"/><s n="f"/></l><r>ад'єктивація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adiutant<s n="n"/><s n="mp"/></l><r>ад'ютант<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
-    <e><p><l>administracja<s n="n"/><s n="f"/></l><r>адміністрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>administracja<s n="n"/><s n="f"/></l><r>адміністрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>administrator<s n="n"/><s n="mp"/></l><r>адміністратор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>admirał<s n="n"/><s n="mp"/></l><r>адмірал<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -269,7 +267,6 @@
     <e><p><l>adwokat<s n="n"/><s n="mp"/></l><r>адвокат<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>adwokatura<s n="n"/><s n="f"/></l><r>адвокатура<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>adynamia<s n="n"/><s n="f"/></l><r>адинамія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aeracja<s n="n"/><s n="f"/></l><r>аерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aeracja<s n="n"/><s n="f"/></l><r>аерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aerodrom<s n="n"/><s n="mi"/></l><r>аеродром<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aeronomia<s n="n"/><s n="f"/></l><r>аерономія<s n="n"/><s n="f"/></r></p></e>
@@ -291,7 +288,6 @@
     <e><p><l>agenezja<s n="n"/><s n="f"/></l><r>агенезія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agent<s n="n"/><s n="mp"/></l><r>агент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>agitacja<s n="n"/><s n="f"/></l><r>агітація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>agitacja<s n="n"/><s n="f"/></l><r>агітація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agitator<s n="n"/><s n="mp"/></l><r>агітатор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>aglomeracja<s n="n"/><s n="f"/></l><r>агломерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aglutynacja<s n="n"/><s n="f"/></l><r>аглютинація<s n="n"/><s n="f"/></r></p></e>
@@ -312,7 +308,6 @@
     <e><p><l>agrometeorologia<s n="n"/><s n="f"/></l><r>агрометеорологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>agronomia<s n="n"/><s n="f"/></l><r>агрономія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akacja<s n="n"/><s n="f"/></l><r>акація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>akacja<s n="n"/><s n="f"/></l><r>акація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademia<s n="n"/><s n="f"/></l><r>академія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akademik<s n="n"/><s n="mp"/></l><r>академік<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>akademizm<s n="n"/><s n="mi"/></l><r>академізм<s n="n"/><s n="m"/></r></p></e>
@@ -327,8 +322,6 @@
     <e><p><l>akinezja<s n="n"/><s n="f"/></l><r>акінезія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aklamacja<s n="n"/><s n="f"/></l><r>акламація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aklimatyzacja<s n="n"/><s n="f"/></l><r>акліматизація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aklimatyzacja<s n="n"/><s n="f"/></l><r>акліматизація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>akomodacja<s n="n"/><s n="f"/></l><r>акомодація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akomodacja<s n="n"/><s n="f"/></l><r>акомодація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akrecja<s n="n"/><s n="f"/></l><r>акреція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akredytacja<s n="n"/><s n="f"/></l><r>акредитація<s n="n"/><s n="f"/></r></p></e>
@@ -338,7 +331,6 @@
     <e><p><l>akt<s n="n"/><s n="mi"/></l><r>акт<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aktor<s n="n"/><s n="mp"/></l><r>актор<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>актуалізація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aktualizacja<s n="n"/><s n="f"/></l><r>актуалізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktualizm<s n="n"/><s n="mi"/></l><r>актуалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aktualność<s n="n"/><s n="f"/></l><r>актуальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktynologia<s n="n"/><s n="f"/></l><r>актинологія<s n="n"/><s n="f"/></r></p></e>
@@ -347,7 +339,6 @@
     <e><p><l>aktywacja<s n="n"/><s n="f"/></l><r>активація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktywizacja<s n="n"/><s n="f"/></l><r>активізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aktywność<s n="n"/><s n="f"/></l><r>активність<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>akumulacja<s n="n"/><s n="f"/></l><r>акумуляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akumulacja<s n="n"/><s n="f"/></l><r>акумуляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>akumulator<s n="n"/><s n="mi"/></l><r>акумулятор<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>akwametria<s n="n"/><s n="f"/></l><r>акваметрія<s n="n"/><s n="f"/></r></p></e>
@@ -367,7 +358,6 @@
     <e><p><l>algologia<s n="n"/><s n="f"/></l><r>альгологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>algorytmizacja<s n="n"/><s n="f"/></l><r>алгоритмізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>algrafia<s n="n"/><s n="f"/></l><r>альграфія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>aliteracja<s n="n"/><s n="f"/></l><r>алітерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aliteracja<s n="n"/><s n="f"/></l><r>алітерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alkalimetria<s n="n"/><s n="f"/></l><r>алкаліметрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>alkalizacja<s n="n"/><s n="f"/></l><r>алкалізація<s n="n"/><s n="f"/></r></p></e>
@@ -409,7 +399,6 @@
     <e><p><l>ampelografia<s n="n"/><s n="f"/></l><r>ампелографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ampelologia<s n="n"/><s n="f"/></l><r>ампелологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amplifikacja<s n="n"/><s n="f"/></l><r>ампліфікація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>amplifikacja<s n="n"/><s n="f"/></l><r>ампліфікація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amputacja<s n="n"/><s n="f"/></l><r>ампутація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amunicja<s n="n"/><s n="f"/></l><r>амуніція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amuzja<s n="n"/><s n="f"/></l><r>амузія<s n="n"/><s n="f"/></r></p></e>
@@ -420,7 +409,6 @@
     <e><p><l>analgezja<s n="n"/><s n="f"/></l><r>аналгезія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>analgezja<s n="n"/><s n="f"/></l><r>анальгезія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>analiza<s n="n"/><s n="f"/></l><r>аналіз<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>analogia<s n="n"/><s n="f"/></l><r>аналогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>analogia<s n="n"/><s n="f"/></l><r>аналогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anaplazja<s n="n"/><s n="f"/></l><r>анаплазія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anarchia<s n="n"/><s n="f"/></l><r>анархія<s n="n"/><s n="f"/></r></p></e>
@@ -450,7 +438,6 @@
     <e><p><l>anglomania<s n="n"/><s n="f"/></l><r>англоманія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>anihilacja<s n="n"/><s n="f"/></l><r>анігіляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animacja<s n="n"/><s n="f"/></l><r>анімація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>animacja<s n="n"/><s n="f"/></l><r>анімація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>animalizm<s n="n"/><s n="mi"/></l><r>анімалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>animizm<s n="n"/><s n="mi"/></l><r>анімізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>anioł<s n="n"/><s n="mp"/></l><r>ангел<s n="n"/><s n="ani"/><s n="ani"/><s n="m"/></r></p></e>
@@ -466,13 +453,11 @@
     <e><p><l>antagonizm<s n="n"/><s n="mi"/></l><r>антагонізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antena<s n="n"/><s n="f"/></l><r>антена<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antologia<s n="n"/><s n="f"/></l><r>антологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>antologia<s n="n"/><s n="f"/></l><r>антологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antonimia<s n="n"/><s n="f"/></l><r>антонімія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antonomazja<s n="n"/><s n="f"/></l><r>антономазія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropochoria<s n="n"/><s n="f"/></l><r>антропохорія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropofagia<s n="n"/><s n="f"/></l><r>антропофагія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropofobia<s n="n"/><s n="f"/></l><r>антропофобія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>антропологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropologia<s n="n"/><s n="f"/></l><r>антропологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropometria<s n="n"/><s n="f"/></l><r>антропометрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antropomorfizm<s n="n"/><s n="mi"/></l><r>антропоморфізм<s n="n"/><s n="m"/></r></p></e>
@@ -490,7 +475,6 @@
     <e><p><l>aparat<s n="n"/><s n="mi"/></l><r>апарат<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>apatia<s n="n"/><s n="f"/></l><r>апатія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apel<s n="n"/><s n="mi"/></l><r>заклик<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>apelacja<s n="n"/><s n="f"/></l><r>апеляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apelacja<s n="n"/><s n="f"/></l><r>апеляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apepsja<s n="n"/><s n="f"/></l><r>апепсія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>apercepcja<s n="n"/><s n="f"/></l><r>апперцепція<s n="n"/><s n="f"/></r></p></e>
@@ -517,7 +501,6 @@
     <e><p><l>archaizm<s n="n"/><s n="mi"/></l><r>архаїзм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>archeografia<s n="n"/><s n="f"/></l><r>археографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>археологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>archeologia<s n="n"/><s n="f"/></l><r>археологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archiwizacja<s n="n"/><s n="f"/></l><r>архівація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>archiwum<s n="n"/><s n="mi"/></l><r>архів<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>arefleksja<s n="n"/><s n="f"/></l><r>арефлексія<s n="n"/><s n="f"/></r></p></e>
@@ -525,7 +508,6 @@
     <e><p><l>areszt<s n="n"/><s n="mi"/></l><r>арешт<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>argentometria<s n="n"/><s n="f"/></l><r>аргентометрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>argument<s n="n"/><s n="mi"/></l><r>аргумент<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>argumentacja<s n="n"/><s n="f"/></l><r>аргументація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>argumentacja<s n="n"/><s n="f"/></l><r>аргументація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>aria<s n="n"/><s n="f"/></l><r>арія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>arkusz<s n="n"/><s n="mi"/></l><r>аркуш<s n="n"/><s n="m"/></r></p></e>
@@ -564,7 +546,6 @@
     <e><p><l>astrolabia<s n="n"/><s n="f"/></l><r>астролябія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astrolatria<s n="n"/><s n="f"/></l><r>астролатрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astrologia<s n="n"/><s n="f"/></l><r>астрологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>astrologia<s n="n"/><s n="f"/></l><r>астрологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astrometria<s n="n"/><s n="f"/></l><r>астрометрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astronawigacja<s n="n"/><s n="f"/></l><r>астронавігація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astronomia<s n="n"/><s n="f"/></l><r>астрономія<s n="n"/><s n="f"/></r></p></e>
@@ -573,7 +554,6 @@
     <e><p><l>astrospektroskopia<s n="n"/><s n="f"/></l><r>астроспектроскопія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asygnacja<s n="n"/><s n="f"/></l><r>асигнація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asymetria<s n="n"/><s n="f"/></l><r>асиметрія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>asymilacja<s n="n"/><s n="f"/></l><r>асиміляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asymilacja<s n="n"/><s n="f"/></l><r>асиміляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>asynergia<s n="n"/><s n="f"/></l><r>асинергія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>atak<s n="n"/><s n="mi"/></l><r>атака<s n="n"/><s n="f"/></r></p></e>
@@ -601,7 +581,6 @@
     <e><p><l>autokefalia<s n="n"/><s n="f"/></l><r>автокефалія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>autolitografia<s n="n"/><s n="f"/></l><r>автолітографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automat<s n="n"/><s n="mi"/></l><r>автомат<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>автоматизація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automatyzacja<s n="n"/><s n="f"/></l><r>автоматизація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>automatyzm<s n="n"/><s n="mi"/></l><r>автоматизм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>automobilizm<s n="n"/><s n="mi"/></l><r>автомобілізм<s n="n"/><s n="m"/></r></p></e>
@@ -677,7 +656,6 @@
     <e><p><l>bierwiono<s n="n"/><s n="nt"/></l><r>колода<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bies<s n="n"/><s n="mp"/></l><r>біс<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>bifurkacja<s n="n"/><s n="f"/></l><r>біфуркація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>bifurkacja<s n="n"/><s n="f"/></l><r>біфуркація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bigamia<s n="n"/><s n="f"/></l><r>бігамія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bijatyka<s n="n"/><s n="f"/></l><r>бійка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bilet<s n="n"/><s n="mi"/></l><r>квиток<s n="n"/><s n="m"/></r></p></e>
@@ -690,7 +668,6 @@
     <e><p><l>biogeografia<s n="n"/><s n="f"/></l><r>біогеографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biografia<s n="n"/><s n="f"/></l><r>біографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>bioinżynieria<s n="n"/><s n="f"/></l><r>біоінженерія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>biologia<s n="n"/><s n="f"/></l><r>біологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biologia<s n="n"/><s n="f"/></l><r>біологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>biologizm<s n="n"/><s n="mi"/></l><r>біологізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>biometria<s n="n"/><s n="f"/></l><r>біометрія<s n="n"/><s n="f"/></r></p></e>
@@ -817,7 +794,6 @@
     <e><p><l>chrestomatia<s n="n"/><s n="f"/></l><r>хрестоматія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chromatografia<s n="n"/><s n="f"/></l><r>хроматографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chronologia<s n="n"/><s n="f"/></l><r>хронологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>chronologia<s n="n"/><s n="f"/></l><r>хронологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chrzan<s n="n"/><s n="mi"/></l><r>хрін<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>chudoba<s n="n"/><s n="f"/></l><r>худоба<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>chustka<s n="n"/><s n="f"/></l><r>хустка<s n="n"/><s n="f"/></r></p></e>
@@ -902,11 +878,9 @@
     <e><p><l>deklamacja<s n="n"/><s n="f"/></l><r>декламація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dekret<s n="n"/><s n="mi"/></l><r>указ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>delegacja<s n="n"/><s n="f"/></l><r>делегація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>delegacja<s n="n"/><s n="f"/></l><r>делегація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delikatność<s n="n"/><s n="f"/></l><r>ніжність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delikatność<s n="n"/><s n="f"/></l><r>делікатність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>delirium<s n="n"/><s n="mi"/></l><r>марення<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>demagogia<s n="n"/><s n="f"/></l><r>демагогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demagogia<s n="n"/><s n="f"/></l><r>демагогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demografia<s n="n"/><s n="f"/></l><r>демографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>demokracja<s n="n"/><s n="f"/></l><r>демократія<s n="n"/><s n="f"/></r></p></e>
@@ -1090,8 +1064,6 @@
     <e><p><l>etat<s n="n"/><s n="mi"/></l><r>посада<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etnografia<s n="n"/><s n="f"/></l><r>етнографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etnologia<s n="n"/><s n="f"/></l><r>етнологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>etnologia<s n="n"/><s n="f"/></l><r>етнологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>etymologia<s n="n"/><s n="f"/></l><r>етимологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>etymologia<s n="n"/><s n="f"/></l><r>етимологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>eudemonizm<s n="n"/><s n="mi"/></l><r>евдемонізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>eufemizm<s n="n"/><s n="mi"/></l><r>евфемізм<s n="n"/><s n="m"/></r></p></e>
@@ -1119,14 +1091,12 @@
     <e><p><l>farba<s n="n"/><s n="f"/></l><r>фарба<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>farmacja<s n="n"/><s n="f"/></l><r>фармація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>farmakologia<s n="n"/><s n="f"/></l><r>фармакологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>farmakologia<s n="n"/><s n="f"/></l><r>фармакологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>farmakoterapia<s n="n"/><s n="f"/></l><r>фармакотерапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>faszysta<s n="n"/><s n="mp"/></l><r>фашист<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>faszyzm<s n="n"/><s n="mi"/></l><r>фашизм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fatalizm<s n="n"/><s n="mi"/></l><r>фаталізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fatalność<s n="n"/><s n="f"/></l><r>фатальність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fałd<s n="n"/><s n="mi"/></l><r>складка<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>federacja<s n="n"/><s n="f"/></l><r>федерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>federacja<s n="n"/><s n="f"/></l><r>федерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>federalizm<s n="n"/><s n="mi"/></l><r>федералізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>feminizm<s n="n"/><s n="mi"/></l><r>фемінізм<s n="n"/><s n="m"/></r></p></e>
@@ -1140,7 +1110,6 @@
     <e><p><l>filar<s n="n"/><s n="mi"/></l><r>колона<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filiżanka<s n="n"/><s n="f"/></l><r>чашка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>film<s n="n"/><s n="mi"/></l><r>фільм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>filologia<s n="n"/><s n="f"/></l><r>філологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filologia<s n="n"/><s n="f"/></l><r>філологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filozof<s n="n"/><s n="mp"/></l><r>філософ<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>filozofia<s n="n"/><s n="f"/></l><r>філософія<s n="n"/><s n="f"/></r></p></e>
@@ -1160,7 +1129,6 @@
     <e><p><l>fokus<s n="n"/><s n="mi"/></l><r>фокус<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fonografia<s n="n"/><s n="f"/></l><r>фонографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fonologia<s n="n"/><s n="f"/></l><r>фонологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>fonologia<s n="n"/><s n="f"/></l><r>фонологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fontanna<s n="n"/><s n="f"/></l><r>фонтан<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>forma<s n="n"/><s n="f"/></l><r>форма<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>formacja<s n="n"/><s n="f"/></l><r>формація<s n="n"/><s n="f"/></r></p></e>
@@ -1176,9 +1144,7 @@
     <e><p><l>frasunek<s n="n"/><s n="mi"/></l><r>турбота<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fraza<s n="n"/><s n="f"/></l><r>фраза<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frazeologia<s n="n"/><s n="f"/></l><r>фразеологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>frazeologia<s n="n"/><s n="f"/></l><r>фразеологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frazeologizm<s n="n"/><s n="mi"/></l><r>фразеологізм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>frenologia<s n="n"/><s n="f"/></l><r>френологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>frenologia<s n="n"/><s n="f"/></l><r>френологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>front<s n="n"/><s n="mi"/></l><r>фронт<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frustracja<s n="n"/><s n="f"/></l><r>фрустрація<s n="n"/><s n="f"/></r></p></e>
@@ -1224,7 +1190,6 @@
     <e><p><l>gałąź<s n="n"/><s n="f"/></l><r>гілка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gen<s n="n"/><s n="mi"/></l><r>ген<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>genealogia<s n="n"/><s n="f"/></l><r>генеалогія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>genealogia<s n="n"/><s n="f"/></l><r>генеалогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>generacja<s n="n"/><s n="f"/></l><r>генерація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>generalizacja<s n="n"/><s n="f"/></l><r>генералізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>generał<s n="n"/><s n="mp"/></l><r>генерал<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -1235,7 +1200,6 @@
     <e><p><l>geognozja<s n="n"/><s n="f"/></l><r>геогнозія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geografia<s n="n"/><s n="f"/></l><r>географія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geokarpia<s n="n"/><s n="f"/></l><r>геокарпія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>geologia<s n="n"/><s n="f"/></l><r>геологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geologia<s n="n"/><s n="f"/></l><r>геологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geometria<s n="n"/><s n="f"/></l><r>геометрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>geomorfologia<s n="n"/><s n="f"/></l><r>геоморфологія<s n="n"/><s n="f"/></r></p></e>
@@ -1250,7 +1214,6 @@
     <e><p><l>gigantomania<s n="n"/><s n="f"/></l><r>гигантоманія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gigantomania<s n="n"/><s n="f"/></l><r>гігантоманія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gildia<s n="n"/><s n="f"/></l><r>гільдія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ginekologia<s n="n"/><s n="f"/></l><r>гінекологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ginekologia<s n="n"/><s n="f"/></l><r>гінекологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gitara<s n="n"/><s n="f"/></l><r>гітара<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>glina<s n="n"/><s n="f"/></l><r>глина<s n="n"/><s n="f"/></r></p></e>
@@ -1278,7 +1241,6 @@
     <e><p><l>gracja<s n="n"/><s n="f"/></l><r>грація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gracz<s n="n"/><s n="mp"/></l><r>гравець<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>gradacja<s n="n"/><s n="f"/></l><r>градація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>grafologia<s n="n"/><s n="f"/></l><r>графологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grafologia<s n="n"/><s n="f"/></l><r>графологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>grafomania<s n="n"/><s n="f"/></l><r>графоманія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>gram<s n="n"/><s n="mi"/></l><r>грам<s n="n"/><s n="m"/></r></p></e>
@@ -1398,7 +1360,6 @@
     <e><p><l>ideał<s n="n"/><s n="mi"/></l><r>ідеал<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>identyczność<s n="n"/><s n="f"/></l><r>ідентичність<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ideologia<s n="n"/><s n="f"/></l><r>ідеологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ideologia<s n="n"/><s n="f"/></l><r>ідеологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>idiomorfizm<s n="n"/><s n="mi"/></l><r>ідіоморфізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>idiota<s n="n"/><s n="mp"/></l><r>ідіот<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>idiotyzm<s n="n"/><s n="mi"/></l><r>ідіотизм<s n="n"/><s n="m"/></r></p></e>
@@ -1425,7 +1386,6 @@
     <e><p><l>infiltracja<s n="n"/><s n="f"/></l><r>інфільтрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inflacja<s n="n"/><s n="f"/></l><r>інфляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>informacja<s n="n"/><s n="f"/></l><r>інформація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>informacja<s n="n"/><s n="f"/></l><r>інформація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inicjatywa<s n="n"/><s n="f"/></l><r>ініціатива<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inkorporacja<s n="n"/><s n="f"/></l><r>інкорпорація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>inkrustacja<s n="n"/><s n="f"/></l><r>інкрустація<s n="n"/><s n="f"/></r></p></e>
@@ -1451,7 +1411,6 @@
     <e><p><l>internat<s n="n"/><s n="mi"/></l><r>інтернат<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>interpolacja<s n="n"/><s n="f"/></l><r>інтерполяція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>interpretacja<s n="n"/><s n="f"/></l><r>інтерпретація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>intonacja<s n="n"/><s n="f"/></l><r>інтонація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>intonacja<s n="n"/><s n="f"/></l><r>інтонація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>intuitywizm<s n="n"/><s n="mi"/></l><r>інтуїтивізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>inwalida<s n="n"/><s n="mp"/></l><r>інвалід<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -1514,7 +1473,6 @@
     <e><p><l>kapitulacja<s n="n"/><s n="f"/></l><r>капітуляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kapusta<s n="n"/><s n="f"/></l><r>капуста<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kara<s n="n"/><s n="f"/></l><r>покарання<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>kardiologia<s n="n"/><s n="f"/></l><r>кардіологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kardiologia<s n="n"/><s n="f"/></l><r>кардіологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kariera<s n="n"/><s n="f"/></l><r>кар'єра<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kark<s n="n"/><s n="mi"/></l><r>потилиця<s n="n"/><s n="m"/></r></p></e>
@@ -1657,7 +1615,6 @@
     <e><p><l>korespondent<s n="n"/><s n="mp"/></l><r>кореспондент<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>koronacja<s n="n"/><s n="f"/></l><r>коронація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korporacja<s n="n"/><s n="f"/></l><r>корпорація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>korporacja<s n="n"/><s n="f"/></l><r>корпорація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>korpus<s n="n"/><s n="mi"/></l><r>корпус<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>korytarz<s n="n"/><s n="mi"/></l><r>коридор<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>korzeń<s n="n"/><s n="mi"/></l><r>корінь<s n="n"/><s n="m"/></r></p></e>
@@ -1702,7 +1659,6 @@
     <e><p><l>kruszec<s n="n"/><s n="mi"/></l><r>порода<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kruszyna<s n="n"/><s n="f"/></l><r>крихта<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kryminał<s n="n"/><s n="mi"/></l><r>в'язниця<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>kryminologia<s n="n"/><s n="f"/></l><r>кримінологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kryminologia<s n="n"/><s n="f"/></l><r>кримінологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>kryptorchizm<s n="n"/><s n="mi"/></l><r>крипторхізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>krytyka<s n="n"/><s n="f"/></l><r>критика<s n="n"/><s n="f"/></r></p></e>
@@ -1774,7 +1730,6 @@
     <e><p><l>leki<s n="n"/><s n="mi"/></l><r>ліки<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lekkość<s n="n"/><s n="f"/></l><r>легкість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leksykografia<s n="n"/><s n="f"/></l><r>лексикографія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>leksykologia<s n="n"/><s n="f"/></l><r>лексикологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leksykologia<s n="n"/><s n="f"/></l><r>лексикологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>leninizm<s n="n"/><s n="mi"/></l><r>ленінізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>lew<s n="n"/><s n="ma"/></l><r>лев<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -1883,13 +1838,10 @@
     <e><p><l>metalurgia<s n="n"/><s n="f"/></l><r>металургія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metamorfizm<s n="n"/><s n="mi"/></l><r>метаморфізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>meteorologia<s n="n"/><s n="f"/></l><r>метеорологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>meteorologia<s n="n"/><s n="f"/></l><r>метеорологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metoda<s n="n"/><s n="f"/></l><r>метод<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>metodologia<s n="n"/><s n="f"/></l><r>методологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metodologia<s n="n"/><s n="f"/></l><r>методологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metr<s n="n"/><s n="mi"/></l><r>метр<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>metro<s n="n"/><s n="nt"/></l><r>метро<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>metrologia<s n="n"/><s n="f"/></l><r>метрологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metrologia<s n="n"/><s n="f"/></l><r>метрологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>metropolia<s n="n"/><s n="f"/></l><r>метрополія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mgnienie<s n="n"/><s n="nt"/></l><r>мить<s n="n"/><s n="f"/></r></p></e>
@@ -1907,7 +1859,6 @@
     <e><p><l>mieszkaniec<s n="n"/><s n="mp"/></l><r>мешканець<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>migracja<s n="n"/><s n="f"/></l><r>міграція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mikrobiologia<s n="n"/><s n="f"/></l><r>мікробіологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mikrobiologia<s n="n"/><s n="f"/></l><r>мікробіологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mikrochirurgia<s n="n"/><s n="f"/></l><r>мікрохірургія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mikrofotografia<s n="n"/><s n="f"/></l><r>мікрофотографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mikroorganizm<s n="n"/><s n="mi"/></l><r>мікроорганізм<s n="n"/><s n="m"/></r></p></e>
@@ -1918,7 +1869,6 @@
     <e><p><l>milion<s n="n"/><s n="mi"/></l><r>мільйон<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>militaryzm<s n="n"/><s n="mi"/></l><r>мілітаризм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>mina<s n="n"/><s n="f"/></l><r>міна<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>mineralogia<s n="n"/><s n="f"/></l><r>мінералогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mineralogia<s n="n"/><s n="f"/></l><r>мінералогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>minimalizm<s n="n"/><s n="mi"/></l><r>мінімалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>minimum<s n="n"/><s n="mi"/></l><r>мінімум<s n="n"/><s n="m"/></r></p></e>
@@ -1967,7 +1917,6 @@
     <e><p><l>morderstwo<s n="n"/><s n="nt"/></l><r>вбивство<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>morela<s n="n"/><s n="f"/></l><r>абрикос<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>morfinizm<s n="n"/><s n="mi"/></l><r>морфінізм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>morfologia<s n="n"/><s n="f"/></l><r>морфологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>morfologia<s n="n"/><s n="f"/></l><r>морфологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>morganizm<s n="n"/><s n="mi"/></l><r>морганізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>morze<s n="n"/><s n="nt"/></l><r>море<s n="n"/><s n="nt"/></r></p></e>
@@ -2191,11 +2140,8 @@
     <e><p><l>omen<s n="n"/><s n="mi"/></l><r>прикмета<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>onanizm<s n="n"/><s n="mi"/></l><r>онанізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>onkologia<s n="n"/><s n="f"/></l><r>онкологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>onkologia<s n="n"/><s n="f"/></l><r>онкологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>ontologia<s n="n"/><s n="f"/></l><r>онтологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ontologia<s n="n"/><s n="f"/></l><r>онтологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>oparcie<s n="n"/><s n="nt"/></l><r>упор<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>operacja<s n="n"/><s n="f"/></l><r>операція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>operacja<s n="n"/><s n="f"/></l><r>операція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>opis<s n="n"/><s n="mi"/></l><r>опис<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>oportunizm<s n="n"/><s n="mi"/></l><r>опортунізм<s n="n"/><s n="m"/></r></p></e>
@@ -2207,13 +2153,11 @@
     <e><p><l>opłotek<s n="n"/><s n="mi"/></l><r>огорожа<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orden<s n="n"/><s n="mi"/></l><r>орден<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>organizacja<s n="n"/><s n="f"/></l><r>організація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>organizacja<s n="n"/><s n="f"/></l><r>організація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>organizm<s n="n"/><s n="mi"/></l><r>організм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>organoterapia<s n="n"/><s n="f"/></l><r>органотерапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orgia<s n="n"/><s n="f"/></l><r>оргія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orientalizm<s n="n"/><s n="mi"/></l><r>орієнталізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orkiestra<s n="n"/><s n="f"/></l><r>оркестр<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>ornitologia<s n="n"/><s n="f"/></l><r>орнітологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ornitologia<s n="n"/><s n="f"/></l><r>орнітологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>orografia<s n="n"/><s n="f"/></l><r>орографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ortografia<s n="n"/><s n="f"/></l><r>орфографія<s n="n"/><s n="f"/></r></p></e>
@@ -2274,7 +2218,6 @@
     <e><p><l>paralogizm<s n="n"/><s n="mi"/></l><r>паралогізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parapet<s n="n"/><s n="mi"/></l><r>підвіконня<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>parapsychologia<s n="n"/><s n="f"/></l><r>парапсихологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>parapsychologia<s n="n"/><s n="f"/></l><r>парапсихологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>park<s n="n"/><s n="mi"/></l><r>парк<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parkinsonizm<s n="n"/><s n="mi"/></l><r>паркінсонізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>parlament<s n="n"/><s n="mi"/></l><r>парламент<s n="n"/><s n="m"/></r></p></e>
@@ -2292,7 +2235,6 @@
     <e><p><l>pastuch<s n="n"/><s n="mp"/></l><r>пастух<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>pastylka<s n="n"/><s n="f"/></l><r>пігулка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>paternalizm<s n="n"/><s n="mi"/></l><r>патерналізм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>patologia<s n="n"/><s n="f"/></l><r>патологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>patologia<s n="n"/><s n="f"/></l><r>патологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>patriotyzm<s n="n"/><s n="mi"/></l><r>патріотизм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>pauza<s n="n"/><s n="f"/></l><r>пауза<s n="n"/><s n="f"/></r></p></e>
@@ -2565,15 +2507,12 @@
     <e><p><l>pseudomorfizm<s n="n"/><s n="mi"/></l><r>псевдоморфізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>psychiatria<s n="n"/><s n="f"/></l><r>психіатрія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>psychologia<s n="n"/><s n="f"/></l><r>психологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>psychologia<s n="n"/><s n="f"/></l><r>психологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>psychologizm<s n="n"/><s n="mi"/></l><r>психологізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>psychopatia<s n="n"/><s n="f"/></l><r>психопатія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>psychopatologia<s n="n"/><s n="f"/></l><r>психопатологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>psychopatologia<s n="n"/><s n="f"/></l><r>психопатологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>psychoterapia<s n="n"/><s n="f"/></l><r>психотерапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ptak<s n="n"/><s n="ma"/></l><r>птах<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>publiczność<s n="n"/><s n="f"/></l><r>публіка<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>publikacja<s n="n"/><s n="f"/></l><r>публікація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>publikacja<s n="n"/><s n="f"/></l><r>публікація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pudełko<s n="n"/><s n="nt"/></l><r>коробка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pukanina<s n="n"/><s n="f"/></l><r>стрілянина<s n="n"/><s n="f"/></r></p></e>
@@ -2611,7 +2550,6 @@
     <e><p><l>radio<s n="n"/><s n="nt"/></l><r>радіо<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>radiografia<s n="n"/><s n="f"/></l><r>радіографія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>radiologia<s n="n"/><s n="f"/></l><r>радіологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>radiologia<s n="n"/><s n="f"/></l><r>радіологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>radioterapia<s n="n"/><s n="f"/></l><r>радіотерапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>radość<s n="n"/><s n="f"/></l><r>радість<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>radykalizm<s n="n"/><s n="mi"/></l><r>радикалізм<s n="n"/><s n="m"/></r></p></e>
@@ -2627,7 +2565,6 @@
     <e><p><l>ratyfikacja<s n="n"/><s n="f"/></l><r>ратифікація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>raz<s n="n"/><s n="mi"/></l><r>раз<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reakcja<s n="n"/><s n="f"/></l><r>реакція<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>realizacja<s n="n"/><s n="f"/></l><r>реалізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>realizacja<s n="n"/><s n="f"/></l><r>реалізація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>realizm<s n="n"/><s n="mi"/></l><r>реалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>reanimacja<s n="n"/><s n="f"/></l><r>реанімація<s n="n"/><s n="f"/></r></p></e>
@@ -2758,12 +2695,10 @@
     <e><p><l>schody<s n="n"/><s n="mi"/></l><r>сходи<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sejf<s n="n"/><s n="mi"/></l><r>сейф<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sejsmologia<s n="n"/><s n="f"/></l><r>сейсмологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sejsmologia<s n="n"/><s n="f"/></l><r>сейсмологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sekret<s n="n"/><s n="mi"/></l><r>секрет<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sekretarka<s n="n"/><s n="f"/></l><r>секретарка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sekretarz<s n="n"/><s n="mp"/></l><r>секретар<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>seksualizm<s n="n"/><s n="mi"/></l><r>сексуалізм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>seksuologia<s n="n"/><s n="f"/></l><r>сексологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>seksuologia<s n="n"/><s n="f"/></l><r>сексологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sektor<s n="n"/><s n="mi"/></l><r>сектор<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>sekunda<s n="n"/><s n="f"/></l><r>секунда<s n="n"/><s n="f"/></r></p></e>
@@ -2819,7 +2754,6 @@
     <e><p><l>socjal-szowinizm<s n="n"/><s n="mi"/></l><r>соціал-шовінізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>socjalizm<s n="n"/><s n="mi"/></l><r>соціалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>socjologia<s n="n"/><s n="f"/></l><r>соціологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>socjologia<s n="n"/><s n="f"/></l><r>соціологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>socjologizm<s n="n"/><s n="mi"/></l><r>соціологізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>socrealizm<s n="n"/><s n="mi"/></l><r>соцреалізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>soczewica<s n="n"/><s n="f"/></l><r>сочевиця<s n="n"/><s n="f"/></r></p></e>
@@ -2859,7 +2793,6 @@
     <e><p><l>spójnik<s n="n"/><s n="mi"/></l><r>сполучник<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>srebro<s n="n"/><s n="nt"/></l><r>срібло<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>stabilizacja<s n="n"/><s n="f"/></l><r>стабілізація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>stacja<s n="n"/><s n="f"/></l><r>станція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stacja<s n="n"/><s n="f"/></l><r>станція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>stado<s n="n"/><s n="nt"/></l><r>стадо<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>stal<s n="n"/><s n="f"/></l><r>сталь<s n="n"/><s n="f"/></r></p></e>
@@ -2937,7 +2870,6 @@
     <e><p><l>system<s n="n"/><s n="mi"/></l><r>система<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sytuacja<s n="n"/><s n="f"/></l><r>ситуація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>sytuacja<s n="n"/><s n="f"/></l><r>обстановка<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>sytuacja<s n="n"/><s n="f"/></l><r>ситуація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>szafa<s n="n"/><s n="f"/></l><r>шафа<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>szamanizm<s n="n"/><s n="mi"/></l><r>шаманізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>szansa<s n="n"/><s n="f"/></l><r>шанс<s n="n"/><s n="m"/></r></p></e>
@@ -2996,7 +2928,6 @@
     <e><p><l>taniec<s n="n"/><s n="mi"/></l><r>танець<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tarcza<s n="n"/><s n="f"/></l><r>щит<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tautologia<s n="n"/><s n="f"/></l><r>тавтологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>tautologia<s n="n"/><s n="f"/></l><r>тавтологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>taśma<s n="n"/><s n="f"/></l><r>стрічка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tchórz<s n="n"/><s n="ma"/></l><r>тхір<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>teatr<s n="n"/><s n="mi"/></l><r>театр<s n="n"/><s n="m"/></r></p></e>
@@ -3004,14 +2935,12 @@
     <e><p><l>technik<s n="n"/><s n="f"/></l><r>технік<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>technika<s n="n"/><s n="f"/></l><r>техніка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>technologia<s n="n"/><s n="f"/></l><r>технологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>technologia<s n="n"/><s n="f"/></l><r>технологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teczka<s n="n"/><s n="f"/></l><r>портфель<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teizm<s n="n"/><s n="mi"/></l><r>теїзм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>tekst<s n="n"/><s n="mi"/></l><r>текст<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>telefon<s n="n"/><s n="mi"/></l><r>телефон<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>telefonia<s n="n"/><s n="f"/></l><r>телефонія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>telegram<s n="n"/><s n="mi"/></l><r>телеграма<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>teleologia<s n="n"/><s n="f"/></l><r>телеологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teleologia<s n="n"/><s n="f"/></l><r>телеологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>telepatia<s n="n"/><s n="f"/></l><r>телепатія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>telewizja<s n="n"/><s n="f"/></l><r>телебачення<s n="n"/><s n="nt"/></r></p></e>
@@ -3021,12 +2950,10 @@
     <e><p><l>tempo<s n="n"/><s n="nt"/></l><r>темп<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>teogonia<s n="n"/><s n="f"/></l><r>теогонія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teologia<s n="n"/><s n="f"/></l><r>теологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>teologia<s n="n"/><s n="f"/></l><r>теологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>teoria<s n="n"/><s n="f"/></l><r>теорія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>terapia<s n="n"/><s n="f"/></l><r>терапія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>termin<s n="n"/><s n="mi"/></l><r>термін<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>terminizm<s n="n"/><s n="mi"/></l><r>термінізм<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>terminologia<s n="n"/><s n="f"/></l><r>термінологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>terminologia<s n="n"/><s n="f"/></l><r>термінологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>termometamorfizm<s n="n"/><s n="mi"/></l><r>термометаморфізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>termoregulacja<s n="n"/><s n="f"/></l><r>терморегуляція<s n="n"/><s n="f"/></r></p></e>
@@ -3073,7 +3000,6 @@
     <e><p><l>trup<s n="n"/><s n="mp"/></l><r>труп<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
     <e><p><l>tryb<s n="n"/><s n="mi"/></l><r>порядок<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>trygonometria<s n="n"/><s n="f"/></l><r>тригонометрія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>trylogia<s n="n"/><s n="f"/></l><r>трилогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trylogia<s n="n"/><s n="f"/></l><r>трилогія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trójka<s n="n"/><s n="f"/></l><r>трійка<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>turysta<s n="n"/><s n="mp"/></l><r>турист<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -3123,7 +3049,6 @@
     <e><p><l>uroczystość<s n="n"/><s n="f"/></l><r>торжество<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urodzenie<s n="n"/><s n="nt"/></l><r>народження<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>urologia<s n="n"/><s n="f"/></l><r>урологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>urologia<s n="n"/><s n="f"/></l><r>урологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>urwisko<s n="n"/><s n="nt"/></l><r>урвище<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>urządzenie<s n="n"/><s n="nt"/></l><r>пристрій<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>urzęd<s n="n"/><s n="mi"/></l><r>орган<s n="n"/><s n="m"/></r></p></e>
@@ -3157,7 +3082,6 @@
     <e><p><l>waporyzacja<s n="n"/><s n="f"/></l><r>вапоризація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>warga<s n="n"/><s n="f"/></l><r>губа<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wariacja<s n="n"/><s n="f"/></l><r>варіація<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>wariacja<s n="n"/><s n="f"/></l><r>варіація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wariant<s n="n"/><s n="mi"/></l><r>варіант<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>warstwa<s n="n"/><s n="f"/></l><r>шар<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wartość<s n="n"/><s n="f"/></l><r>цінність<s n="n"/><s n="f"/></r></p></e>
@@ -3172,7 +3096,6 @@
     <e><p><l>welaryzacja<s n="n"/><s n="f"/></l><r>веляризація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>welingtonia<s n="n"/><s n="f"/></l><r>велінгтонія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wenerologia<s n="n"/><s n="f"/></l><r>венерологія<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>wentylacja<s n="n"/><s n="f"/></l><r>вентиляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wentylacja<s n="n"/><s n="f"/></l><r>вентиляція<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>weranda<s n="n"/><s n="f"/></l><r>веранда<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>werbalizm<s n="n"/><s n="mi"/></l><r>вербалізм<s n="n"/><s n="m"/></r></p></e>
@@ -3190,7 +3113,6 @@
     <e><p><l>wiara<s n="n"/><s n="f"/></l><r>віра<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wiatr<s n="n"/><s n="mi"/></l><r>вітер<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>wiatr<s n="n"/><s n="mi"/></l><r>вітерець<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>wibracja<s n="n"/><s n="f"/></l><r>вібрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wibracja<s n="n"/><s n="f"/></l><r>вібрація<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>widowisko<s n="n"/><s n="nt"/></l><r>видовище<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>widz<s n="n"/><s n="mp"/></l><r>глядач<s n="n"/><s n="ani"/><s n="m"/></r></p></e>
@@ -3216,7 +3138,6 @@
     <e><p><l>wino<s n="n"/><s n="nt"/></l><r>вино<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>wiosna<s n="n"/><s n="f"/></l><r>весна<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wiosło<s n="n"/><s n="nt"/></l><r>весло<s n="n"/><s n="nt"/></r></p></e>
-    <e><p><l>wirusologia<s n="n"/><s n="f"/></l><r>вірусологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>wirusologia<s n="n"/><s n="f"/></l><r>вірусологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>witalizm<s n="n"/><s n="mi"/></l><r>віталізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>witaminizacja<s n="n"/><s n="f"/></l><r>вітамінізація<s n="n"/><s n="f"/></r></p></e>
@@ -3390,7 +3311,6 @@
     <e><p><l>znak<s n="n"/><s n="mi"/></l><r>знак<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zniszczenie<s n="n"/><s n="nt"/></l><r>знищення<s n="n"/><s n="nt"/></r></p></e>
     <e><p><l>znużenie<s n="n"/><s n="nt"/></l><r>втома<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>зоологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoologia<s n="n"/><s n="f"/></l><r>зоологія<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>zoomorfizm<s n="n"/><s n="mi"/></l><r>зооморфізм<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>zorza<s n="n"/><s n="f"/></l><r>зоря<s n="n"/><s n="f"/></r></p></e>
